@@ -92,6 +92,8 @@
     overflow-y: auto;
     height: 265px;
     width: 100%;
+    display: flex;
+    text-align: center;
   }
   
   
